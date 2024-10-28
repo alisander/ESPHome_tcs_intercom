@@ -8,6 +8,7 @@
 #include "esphome/core/log.h"
 #include "esphome/core/automation.h"
 #include "esphome/components/text_sensor/text_sensor.h"
+#include <soc/efuse_reg.h>
 
 namespace esphome
 {
