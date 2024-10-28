@@ -12,8 +12,6 @@
 #include "esphome/core/application.h"
 
 
-#include "esp_efuse.h"
-#include "esp_efuse_table.h"
 
 #ifdef USE_ARDUINO
 #include "Arduino.h"
