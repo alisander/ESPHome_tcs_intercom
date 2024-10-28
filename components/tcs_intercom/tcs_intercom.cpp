@@ -11,8 +11,7 @@
 #include "esphome/components/api/custom_api_device.h"
 #include "esphome/core/application.h"
 
-#include "soc/efuse_reg.h"
-#include "soc/efuse_periph.h"
+
 #include "esp_efuse.h"
 #include "esp_efuse_table.h"
 
